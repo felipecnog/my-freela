@@ -4,9 +4,11 @@ Personal project for my portfolio website
 Projeto pessoal para desenvolvimento do meu site de freelancer, utilizando bootstrap e webpack.
 
 Iniciar webpack
+
 $ npm start
 
 Plugins e versões
+
 bootstrap: 5.3.0
 autoprefixer: 10.4.14
 css-loader: 6.8.1
